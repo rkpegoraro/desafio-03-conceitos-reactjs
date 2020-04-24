@@ -40,7 +40,7 @@ function App() {
                                  </li> )}
       </ul>
 
-      <button type="button" onClick={handleAddRepository}>Adicionar Repositório</button>
+      <button type="button" onClick={handleAddRepository}>Adicionar</button>
     </div>
   );
 }
